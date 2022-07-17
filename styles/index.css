@@ -41,3 +41,6 @@
   background-color: hsl(1, 42%, 49%);
   color: var(--text);
 }
+body {
+  overflow: hidden;
+}
